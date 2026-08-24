@@ -1,0 +1,14 @@
+/home/aniket/DotNet/Tasks/05Polymorphism/bin/Debug/net8.0/05Polymorphism
+/home/aniket/DotNet/Tasks/05Polymorphism/bin/Debug/net8.0/05Polymorphism.deps.json
+/home/aniket/DotNet/Tasks/05Polymorphism/bin/Debug/net8.0/05Polymorphism.runtimeconfig.json
+/home/aniket/DotNet/Tasks/05Polymorphism/bin/Debug/net8.0/05Polymorphism.dll
+/home/aniket/DotNet/Tasks/05Polymorphism/bin/Debug/net8.0/05Polymorphism.pdb
+/home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/05Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/05Polymorphism.AssemblyInfoInputs.cache
+/home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/05Polymorphism.AssemblyInfo.cs
+/home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/05Polymorphism.csproj.CoreCompileInputs.cache
+/home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/05Polymorphism.dll
+/home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/refint/05Polymorphism.dll
+/home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/05Polymorphism.pdb
+/home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/05Polymorphism.genruntimeconfig.cache
+/home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/ref/05Polymorphism.dll

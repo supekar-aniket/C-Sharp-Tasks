@@ -1,0 +1,14 @@
+/home/aniket/DotNet/Tasks/04AccessModifire/bin/Debug/net8.0/04AccessModifire
+/home/aniket/DotNet/Tasks/04AccessModifire/bin/Debug/net8.0/04AccessModifire.deps.json
+/home/aniket/DotNet/Tasks/04AccessModifire/bin/Debug/net8.0/04AccessModifire.runtimeconfig.json
+/home/aniket/DotNet/Tasks/04AccessModifire/bin/Debug/net8.0/04AccessModifire.dll
+/home/aniket/DotNet/Tasks/04AccessModifire/bin/Debug/net8.0/04AccessModifire.pdb
+/home/aniket/DotNet/Tasks/04AccessModifire/obj/Debug/net8.0/04AccessModifire.GeneratedMSBuildEditorConfig.editorconfig
+/home/aniket/DotNet/Tasks/04AccessModifire/obj/Debug/net8.0/04AccessModifire.AssemblyInfoInputs.cache
+/home/aniket/DotNet/Tasks/04AccessModifire/obj/Debug/net8.0/04AccessModifire.AssemblyInfo.cs
+/home/aniket/DotNet/Tasks/04AccessModifire/obj/Debug/net8.0/04AccessModifire.csproj.CoreCompileInputs.cache
+/home/aniket/DotNet/Tasks/04AccessModifire/obj/Debug/net8.0/04AccessModifire.dll
+/home/aniket/DotNet/Tasks/04AccessModifire/obj/Debug/net8.0/refint/04AccessModifire.dll
+/home/aniket/DotNet/Tasks/04AccessModifire/obj/Debug/net8.0/04AccessModifire.pdb
+/home/aniket/DotNet/Tasks/04AccessModifire/obj/Debug/net8.0/04AccessModifire.genruntimeconfig.cache
+/home/aniket/DotNet/Tasks/04AccessModifire/obj/Debug/net8.0/ref/04AccessModifire.dll

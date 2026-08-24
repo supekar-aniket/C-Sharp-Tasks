@@ -1,0 +1,14 @@
+/home/aniket/DotNet/Tasks/03Constructor/bin/Debug/net8.0/03Constructor
+/home/aniket/DotNet/Tasks/03Constructor/bin/Debug/net8.0/03Constructor.deps.json
+/home/aniket/DotNet/Tasks/03Constructor/bin/Debug/net8.0/03Constructor.runtimeconfig.json
+/home/aniket/DotNet/Tasks/03Constructor/bin/Debug/net8.0/03Constructor.dll
+/home/aniket/DotNet/Tasks/03Constructor/bin/Debug/net8.0/03Constructor.pdb
+/home/aniket/DotNet/Tasks/03Constructor/obj/Debug/net8.0/03Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/aniket/DotNet/Tasks/03Constructor/obj/Debug/net8.0/03Constructor.AssemblyInfoInputs.cache
+/home/aniket/DotNet/Tasks/03Constructor/obj/Debug/net8.0/03Constructor.AssemblyInfo.cs
+/home/aniket/DotNet/Tasks/03Constructor/obj/Debug/net8.0/03Constructor.csproj.CoreCompileInputs.cache
+/home/aniket/DotNet/Tasks/03Constructor/obj/Debug/net8.0/03Constructor.dll
+/home/aniket/DotNet/Tasks/03Constructor/obj/Debug/net8.0/refint/03Constructor.dll
+/home/aniket/DotNet/Tasks/03Constructor/obj/Debug/net8.0/03Constructor.pdb
+/home/aniket/DotNet/Tasks/03Constructor/obj/Debug/net8.0/03Constructor.genruntimeconfig.cache
+/home/aniket/DotNet/Tasks/03Constructor/obj/Debug/net8.0/ref/03Constructor.dll

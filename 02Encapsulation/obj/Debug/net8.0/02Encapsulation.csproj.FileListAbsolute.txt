@@ -1,0 +1,14 @@
+/home/aniket/DotNet/Tasks/02Encapsulation/bin/Debug/net8.0/02Encapsulation
+/home/aniket/DotNet/Tasks/02Encapsulation/bin/Debug/net8.0/02Encapsulation.deps.json
+/home/aniket/DotNet/Tasks/02Encapsulation/bin/Debug/net8.0/02Encapsulation.runtimeconfig.json
+/home/aniket/DotNet/Tasks/02Encapsulation/bin/Debug/net8.0/02Encapsulation.dll
+/home/aniket/DotNet/Tasks/02Encapsulation/bin/Debug/net8.0/02Encapsulation.pdb
+/home/aniket/DotNet/Tasks/02Encapsulation/obj/Debug/net8.0/02Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/aniket/DotNet/Tasks/02Encapsulation/obj/Debug/net8.0/02Encapsulation.AssemblyInfoInputs.cache
+/home/aniket/DotNet/Tasks/02Encapsulation/obj/Debug/net8.0/02Encapsulation.AssemblyInfo.cs
+/home/aniket/DotNet/Tasks/02Encapsulation/obj/Debug/net8.0/02Encapsulation.csproj.CoreCompileInputs.cache
+/home/aniket/DotNet/Tasks/02Encapsulation/obj/Debug/net8.0/02Encapsulation.dll
+/home/aniket/DotNet/Tasks/02Encapsulation/obj/Debug/net8.0/refint/02Encapsulation.dll
+/home/aniket/DotNet/Tasks/02Encapsulation/obj/Debug/net8.0/02Encapsulation.pdb
+/home/aniket/DotNet/Tasks/02Encapsulation/obj/Debug/net8.0/02Encapsulation.genruntimeconfig.cache
+/home/aniket/DotNet/Tasks/02Encapsulation/obj/Debug/net8.0/ref/02Encapsulation.dll

@@ -1,0 +1,14 @@
+/home/aniket/DotNet/Tasks/01Inheritance/bin/Debug/net8.0/01Inheritance
+/home/aniket/DotNet/Tasks/01Inheritance/bin/Debug/net8.0/01Inheritance.deps.json
+/home/aniket/DotNet/Tasks/01Inheritance/bin/Debug/net8.0/01Inheritance.runtimeconfig.json
+/home/aniket/DotNet/Tasks/01Inheritance/bin/Debug/net8.0/01Inheritance.dll
+/home/aniket/DotNet/Tasks/01Inheritance/bin/Debug/net8.0/01Inheritance.pdb
+/home/aniket/DotNet/Tasks/01Inheritance/obj/Debug/net8.0/01Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/aniket/DotNet/Tasks/01Inheritance/obj/Debug/net8.0/01Inheritance.AssemblyInfoInputs.cache
+/home/aniket/DotNet/Tasks/01Inheritance/obj/Debug/net8.0/01Inheritance.AssemblyInfo.cs
+/home/aniket/DotNet/Tasks/01Inheritance/obj/Debug/net8.0/01Inheritance.csproj.CoreCompileInputs.cache
+/home/aniket/DotNet/Tasks/01Inheritance/obj/Debug/net8.0/01Inheritance.dll
+/home/aniket/DotNet/Tasks/01Inheritance/obj/Debug/net8.0/refint/01Inheritance.dll
+/home/aniket/DotNet/Tasks/01Inheritance/obj/Debug/net8.0/01Inheritance.pdb
+/home/aniket/DotNet/Tasks/01Inheritance/obj/Debug/net8.0/01Inheritance.genruntimeconfig.cache
+/home/aniket/DotNet/Tasks/01Inheritance/obj/Debug/net8.0/ref/01Inheritance.dll

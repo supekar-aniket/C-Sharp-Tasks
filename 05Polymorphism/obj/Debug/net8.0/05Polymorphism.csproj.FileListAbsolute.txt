@@ -12,3 +12,4 @@
 /home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/05Polymorphism.pdb
 /home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/05Polymorphism.genruntimeconfig.cache
 /home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/ref/05Polymorphism.dll
+/home/aniket/DotNet/Tasks/05Polymorphism/obj/Debug/net8.0/05Polymorphism.sourcelink.json

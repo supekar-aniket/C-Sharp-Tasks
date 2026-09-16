@@ -1,0 +1,15 @@
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/bin/Debug/net8.0/06BankTransactionSystem
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/bin/Debug/net8.0/06BankTransactionSystem.deps.json
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/bin/Debug/net8.0/06BankTransactionSystem.runtimeconfig.json
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/bin/Debug/net8.0/06BankTransactionSystem.dll
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/bin/Debug/net8.0/06BankTransactionSystem.pdb
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/obj/Debug/net8.0/06BankTransactionSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/obj/Debug/net8.0/06BankTransactionSystem.AssemblyInfoInputs.cache
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/obj/Debug/net8.0/06BankTransactionSystem.AssemblyInfo.cs
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/obj/Debug/net8.0/06BankTransactionSystem.csproj.CoreCompileInputs.cache
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/obj/Debug/net8.0/06BankTransactionSystem.sourcelink.json
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/obj/Debug/net8.0/06BankTransactionSystem.dll
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/obj/Debug/net8.0/refint/06BankTransactionSystem.dll
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/obj/Debug/net8.0/06BankTransactionSystem.pdb
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/obj/Debug/net8.0/06BankTransactionSystem.genruntimeconfig.cache
+/home/aniket/DotNet/Tasks/06BankTransactionSystem/obj/Debug/net8.0/ref/06BankTransactionSystem.dll

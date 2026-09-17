@@ -1,0 +1,15 @@
+/home/aniket/DotNet/Tasks/07ArrayList/bin/Debug/net8.0/07ArrayList
+/home/aniket/DotNet/Tasks/07ArrayList/bin/Debug/net8.0/07ArrayList.deps.json
+/home/aniket/DotNet/Tasks/07ArrayList/bin/Debug/net8.0/07ArrayList.runtimeconfig.json
+/home/aniket/DotNet/Tasks/07ArrayList/bin/Debug/net8.0/07ArrayList.dll
+/home/aniket/DotNet/Tasks/07ArrayList/bin/Debug/net8.0/07ArrayList.pdb
+/home/aniket/DotNet/Tasks/07ArrayList/obj/Debug/net8.0/07ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/home/aniket/DotNet/Tasks/07ArrayList/obj/Debug/net8.0/07ArrayList.AssemblyInfoInputs.cache
+/home/aniket/DotNet/Tasks/07ArrayList/obj/Debug/net8.0/07ArrayList.AssemblyInfo.cs
+/home/aniket/DotNet/Tasks/07ArrayList/obj/Debug/net8.0/07ArrayList.csproj.CoreCompileInputs.cache
+/home/aniket/DotNet/Tasks/07ArrayList/obj/Debug/net8.0/07ArrayList.sourcelink.json
+/home/aniket/DotNet/Tasks/07ArrayList/obj/Debug/net8.0/07ArrayList.dll
+/home/aniket/DotNet/Tasks/07ArrayList/obj/Debug/net8.0/refint/07ArrayList.dll
+/home/aniket/DotNet/Tasks/07ArrayList/obj/Debug/net8.0/07ArrayList.pdb
+/home/aniket/DotNet/Tasks/07ArrayList/obj/Debug/net8.0/07ArrayList.genruntimeconfig.cache
+/home/aniket/DotNet/Tasks/07ArrayList/obj/Debug/net8.0/ref/07ArrayList.dll

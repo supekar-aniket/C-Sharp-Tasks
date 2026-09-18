@@ -1,0 +1,15 @@
+/home/aniket/DotNet/Tasks/08Dictionary/bin/Debug/net8.0/08Dictionary
+/home/aniket/DotNet/Tasks/08Dictionary/bin/Debug/net8.0/08Dictionary.deps.json
+/home/aniket/DotNet/Tasks/08Dictionary/bin/Debug/net8.0/08Dictionary.runtimeconfig.json
+/home/aniket/DotNet/Tasks/08Dictionary/bin/Debug/net8.0/08Dictionary.dll
+/home/aniket/DotNet/Tasks/08Dictionary/bin/Debug/net8.0/08Dictionary.pdb
+/home/aniket/DotNet/Tasks/08Dictionary/obj/Debug/net8.0/08Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/aniket/DotNet/Tasks/08Dictionary/obj/Debug/net8.0/08Dictionary.AssemblyInfoInputs.cache
+/home/aniket/DotNet/Tasks/08Dictionary/obj/Debug/net8.0/08Dictionary.AssemblyInfo.cs
+/home/aniket/DotNet/Tasks/08Dictionary/obj/Debug/net8.0/08Dictionary.csproj.CoreCompileInputs.cache
+/home/aniket/DotNet/Tasks/08Dictionary/obj/Debug/net8.0/08Dictionary.sourcelink.json
+/home/aniket/DotNet/Tasks/08Dictionary/obj/Debug/net8.0/08Dictionary.dll
+/home/aniket/DotNet/Tasks/08Dictionary/obj/Debug/net8.0/refint/08Dictionary.dll
+/home/aniket/DotNet/Tasks/08Dictionary/obj/Debug/net8.0/08Dictionary.pdb
+/home/aniket/DotNet/Tasks/08Dictionary/obj/Debug/net8.0/08Dictionary.genruntimeconfig.cache
+/home/aniket/DotNet/Tasks/08Dictionary/obj/Debug/net8.0/ref/08Dictionary.dll
